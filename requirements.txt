@@ -1,5 +1,5 @@
 streamlit
-google-generativeai
 openai
 requests
 Pillow
+beautifulsoup4
